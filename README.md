@@ -4,4 +4,6 @@ This notebook has been developed using [Pluto.jl](https://github.com/fonsp/Pluto
 
 This notebook is still in development as it would be great to improve the interaction making it smoother.
 
-![image1](https://github.com/Raikao/interactive_vae/blob/master/interactive-notebook.gif)
+<p align="center">
+  <img src="https://github.com/Raikao/interactive_vae/blob/master/interactive-notebook.gif">
+</p>
